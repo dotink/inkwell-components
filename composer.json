@@ -11,7 +11,7 @@
 		}
 	],
 	"require": {
-		"php": ">=5.4.0"
+		"php": ">=5.4.0",
 		"dotink/inkwell-routing": "dev-master",
 		"dotink/inkwell-controller": "dev-master",
 		"dotink/inkwell-view": "dev-master",
