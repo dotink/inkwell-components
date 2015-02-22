@@ -7,7 +7,13 @@
 		{
 			"name": "Matthew J. Sahagian",
 			"email": "msahagian@dotink.org",
-			"role": "Developer"
+			"role": "Lead Architect / Developer"
+		}
+	],
+	"repositories": [
+		{
+			"type": "composer",
+			"url": "http://packages.dotink.org"
 		}
 	],
 	"require": {
