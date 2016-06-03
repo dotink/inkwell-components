@@ -18,10 +18,14 @@
 	],
 	"require": {
 		"php": ">=5.4.0",
-		"dotink/inkwell-console": "dev-master",
-		"dotink/inkwell-routing": "dev-master",
-		"dotink/inkwell-controller": "dev-master",
-		"dotink/inkwell-view": "dev-master",
-		"dotink/inkwell-html": "dev-master"
+		"dotink/inkwell-framework": "^3.1.0",
+		"dotink/inkwell-console": "^1.0.0",
+		"dotink/inkwell-routing": "^1.0.0",
+		"dotink/inkwell-controller": "^1.0.0",
+		"dotink/inkwell-view": "^1.0.0",
+		"dotink/inkwell-html": "^1.0.0"
+	},
+	"config": {
+		"secure-http": false
 	}
 }
