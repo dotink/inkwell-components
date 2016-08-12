@@ -20,7 +20,7 @@
 		"php": ">=5.4.0",
 		"dotink/inkwell-console": "^1.0.0",
 		"dotink/inkwell-routing": "^1.0.0",
-		"dotink/inkwell-controller": "^1.0.0",
+		"dotink/inkwell-controller": "^2.0.0",
 		"dotink/inkwell-view": "^1.0.0",
 		"dotink/inkwell-html": "^1.0.0"
 	},
